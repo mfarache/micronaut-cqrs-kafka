@@ -1,6 +1,7 @@
 # micronaut-cqrs-kafka
 
-Blog item poster here: https://mfarache.github.io/mfarache/Micronaut-Cqrs-Kafka-microservices/
+Source code supporting Blog entry
+https://mfarache.github.io/mfarache/Micronaut-Cqrs-Kafka-microservices/
 
 ---
 layout: post
