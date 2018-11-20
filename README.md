@@ -14,7 +14,7 @@ Micronaut helps us to create Kafka producers and consumers that we will use as a
 
 # Introduction to CQRS
 
-![_config.yml]({{ site.baseurl }}/images/CQRS-blocks.png)
+![Image 1](https://mfarache.github.io/mfarache/images/CQRS-blocks.png)
 
 The CQRS pattern was introduced a while ago and made famous on the context of Domain Driven Design.
 It stands for Command Query Responsability Segregation and the idea is pretty simple: split the read and write responsabilities.
