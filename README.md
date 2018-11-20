@@ -60,15 +60,15 @@ Let's assume we have two different data stores - one for updates and other that 
 
 The following diagram explains how movie data is persisted in the first data store.
 
-![_config.yml]({{ site.baseurl }}/images/CQRS-write.png)
+![Image 1](https://mfarache.github.io/mfarache/images/CQRS-write.png)
 
 The following diagram explains how data is queried from the aggregate datasource.
 
-![_config.yml]({{ site.baseurl }}/images/CQRS-read.png)
+![Image 1](https://mfarache.github.io/mfarache/images/CQRS-read.png)
 
 Ummmm... are not we missing something?How is possible that we can read from the agregate datastore? where did the agregation step happened? See below
 
-![_config.yml]({{ site.baseurl }}/images/CQRS-event.png)
+![Image 1](https://mfarache.github.io/mfarache/images/CQRS-event.png)
 
 # REST endpoints
 
