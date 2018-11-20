@@ -1,5 +1,7 @@
 # micronaut-cqrs-kafka
 
+Blog item poster here: https://mfarache.github.io/mfarache/Micronaut-Cqrs-Kafka-microservices/
+
 ---
 layout: post
 title: Apply CQRS pattern to build  microservice with Micronaut and Kafka
