@@ -16,6 +16,8 @@ public class Movie implements Serializable{
 	private String id;
 
 	private String description;
+	
+	private float year;
 
 	public Movie() {
 		
